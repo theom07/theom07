@@ -24,6 +24,8 @@ I'm Om Raval, a **Computer Engineer** passionate about coding, problem-solving, 
 
 ---
 
+## 📂 Projects
+
 [Check out projects in my repository!](https://github.com/theom07?tab=repositories)
 
 ---
