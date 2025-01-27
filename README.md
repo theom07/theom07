@@ -19,7 +19,7 @@ I'm Om Raval, a **Computer Engineer** passionate about coding, problem-solving, 
 ## 🛠️ Tech Stack
 
 - **Programming Languages**: Java, Python, PHP, C, C++, JavaScript, VB.NET, C#
-- **Tools and Frameworks**: ASP.NET, .NET, Angular, Android Studio, VS Code
+- **Tools and Frameworks**: ASP.NET, .NET, Angular, Android Studio, VS Code, Jupyter Notebook
 - **Databases**: MySQL, SQL Server, PostgreSQL
 
 ---
