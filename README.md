@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a **Computer Engineer** passionate about coding, problem-solving, and creating impactful projects.
+Welcome to my GitHub profile! 
+I'm Om Raval, a **Computer Engineer** passionate about coding, problem-solving, and creating impactful projects.
 
 ---
 
