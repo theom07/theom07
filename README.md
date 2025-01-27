@@ -47,19 +47,19 @@ I'm Om Raval, a **Computer Engineer** passionate about coding, problem-solving, 
    - **Tools & Programming Language**: ASP.NET, SQL Server (Visual Studio 2010)  
    - Developed a web application that helps users get solutions to their issues from business experts. Users can send queries, and experts reply. Admins can view user and expert details and generate reports.
 
-## And more in the repo...
+[Check out more projects in my repository!](https://github.com/theom07)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theom07&show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/theom07) | [Twitter](https://twitter.com/theom07) | [Email](mailto:om@gmail.com)
 
 ---
 
