@@ -30,12 +30,6 @@ I'm Om Raval, a **Computer Engineer** passionate about coding, problem-solving, 
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theom07&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/theom07)
