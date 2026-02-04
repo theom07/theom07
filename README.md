@@ -75,13 +75,6 @@ I'm Om Raval, a **Computer Engineer** passionate about coding, problem-solving, 
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 Thank you for visiting my profile! 😊
 
 <div align="center">
